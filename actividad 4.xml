@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+	<empresa>
+		<CIF>G90345234</CIF>
+		<nombre>Vacunen</nombre>
+		<direccion>Calle Santa Ana nº7</direccion>
+		<tlf>971346589</tlf>
+	</empresa>
+	<datosfac>
+		<numerofac>1456</numerofac>
+		<fecha>12/08/18</fecha>
+	</datosfac>
+	<cliente>
+		<CIF>G79345321</CIF>
+		<nombre>Burguer King</nombre>
+		<direccion>Calle San Jose nº93</direccion>
+		<tlf>971332189</tlf>
+	</cliente>
+	<contenido>
+		<nombre>Hamburguesa Vacuno</nombre>
+		<precuni>25 cent</precuni>
+		<ivauni>6 cent </ivauni>
+		<numerouni> 5000 </numerouni>
+		<total>1250 euros</total>
+	</contenido>
+</factura>
+
